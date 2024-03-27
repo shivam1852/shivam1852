@@ -19,8 +19,8 @@ I am a final year B.Tech student pursuing Computer Science Engineering with a st
 
 ## Projects
  
-  ****CreditCard Fraud Detection****
-  ****Marksheet Generator Tool****
+  CreditCard Fraud Detection
+  Marksheet Generator Tool
 
  
 ## Education
